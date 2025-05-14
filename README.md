@@ -60,7 +60,7 @@ numerical-methods/
 ## 🚀 Get Started
 
 ```bash
-git clone https://github.com/<your-org>/numerical-methods.git
+git clone git@github.com:Num-Methods-for-Engineers-and-Quants/num-methods-foundations.git
 cd numerical-methods
 python 01_root_finding/newton_method.py
 ```
@@ -77,5 +77,5 @@ pip install numpy matplotlib
 
 I'm Brice — a civil engineer with 25 years of infrastructure experience, pivoting into **quantitative finance and machine learning**. This series documents my journey, translating engineering logic into financial tools, one method at a time.
 
-👉 [Connect on LinkedIn](https://linkedin.com/in/your-profile)  
-📘 [Read the blog series on Medium](https://medium.com/@your-medium)
+👉 [Connect on LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
+📘 [Read the blog series on Medium](https://medium.com/@quantshift)
