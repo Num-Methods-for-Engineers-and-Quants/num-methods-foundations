@@ -1,0 +1,70 @@
+# Conda Environment
+.conda/
+conda-env/
+conda-bld/
+env/
+venv/
+ENV/
+.condarc
+.envrc
+environment.yml
+environment.yaml
+conda-meta/
+conda-build.yml
+condarc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+.idea_modules/
+out/
+.ideaHaskell
+
+# VS Code (in case you switch editors)
+.vscode/
+*.code-workspace
+
+# Other common files to ignore
+*.log
+.DS_Store
+.env
+.venv
