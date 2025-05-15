@@ -62,7 +62,7 @@ numerical-methods/
 ```bash
 git clone git@github.com:Num-Methods-for-Engineers-and-Quants/num-methods-foundations.git
 cd numerical-methods
-python 01_root_finding/newton_method.py
+python root_finding/newton_method.py
 ```
 
 Install dependencies (if any):
